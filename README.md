@@ -1,1 +1,1 @@
-# proyecto_fina_yo_programo
+# Repositorio dedicado para el front end, del proyecto final de Argentina programa. Yo programo
